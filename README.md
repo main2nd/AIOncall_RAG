@@ -191,5 +191,5 @@ curl http://localhost:9900/milvus/health
 
 
 **版本**: v1.0.0  
-**作者**: chief  
+**作者**: main  
 **许可证**: MIT
